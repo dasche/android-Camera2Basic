@@ -1,4 +1,4 @@
-
+![Java CI with Gradle](https://github.com/dasche/android-Camera2Basic/workflows/Java%20CI%20with%20Gradle/badge.svg)
 Android Camera2Basic Sample
 ===================================
 
